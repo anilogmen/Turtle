@@ -7,6 +7,8 @@ drawing_board.title("Python Turtle")
 
 T = turtle.Turtle()
 T.speed(1)
+T.shape("turtle")
+
 
 a = [-100, 200]
 b = [-100, 200]
